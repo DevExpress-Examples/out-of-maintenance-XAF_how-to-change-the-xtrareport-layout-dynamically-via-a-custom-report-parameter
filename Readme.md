@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DomainObject1.cs](./CS/WinSample.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSample.Module/DomainObject1.vb))
+* [MyReportParametersObject.cs](./CS/WinSample.Module/MyReportParametersObject.cs) (VB: [MyReportParametersObject.vb](./VB/WinSample.Module/MyReportParametersObject.vb))
+* [Updater.cs](./CS/WinSample.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSample.Module/Updater.vb))
+<!-- default file list end -->
 # How to change the XtraReport layout dynamically via a custom Report Parameters Object
 
 
